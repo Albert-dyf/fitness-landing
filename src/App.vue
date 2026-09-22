@@ -31,7 +31,7 @@ function submitForm() {
     <!-- 首屏 Hero -->
     <!-- <section class="hero">
     </section> -->
-    <section class="hero" style="background-image:url('/hero.jpg'); background-size:cover; background-position:center;">
+    <section class="hero" style="background-image:url('./hero.jpg'); background-size:cover; background-position:center;">
       <h1>把坚持，练成习惯</h1>
       <p>县城首家主打科学减脂与力量训练的小型健身工作室<br />私教为主，人少不打挤。</p>
       <a class="btn" href="#contact">免费预约体验课</a>
