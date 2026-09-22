@@ -11,6 +11,7 @@ function submitForm() {
     submitted.value = true
   }
 }
+
 </script>
 
 <template>
